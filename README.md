@@ -1,2 +1,2 @@
 # ArrayList
-Array List questions and solutions
+(array) List questions and solutions
