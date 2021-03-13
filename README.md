@@ -1,2 +1,2 @@
 # ArrayList
-(array) List questions and solutions
+(array) List implementation; questions and solutions
