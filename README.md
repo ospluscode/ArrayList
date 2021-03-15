@@ -1,2 +1,2 @@
 # ArrayList
-(array) List implementation; questions and solutions
+(array) List Data Structure implementation; questions and solutions
